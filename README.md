@@ -20,9 +20,9 @@
 - Amazon DocumentDB (MongoDB)
 - Amazon Neptune (Grafos)
 
-## Otros servicios de almacenamiento y análisis
+## Servicios de almacenamiento y análisis
 
-- Amazon Redshift. Creación de Warehouses.
+- Amazon Redshift. 
 - Amazon Athena
 - Amazon EMR
 
