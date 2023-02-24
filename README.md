@@ -10,7 +10,6 @@
 
 - Introducción a bases de datos relacionales
 - Amazon RDS
-- Diferencia respecto a SQL Service y soluciones OnPrem
 - Amazon Aurora
 
 ## Bases de datos no relacionales en AWS
