@@ -15,8 +15,8 @@
 ## Bases de datos no relacionales en AWS
 
 - Bases de datos de documentos, clave valor y grafos
+- Amazon DynamoDB y DocumentDB (MongoDB)
 - Amazon Keyspaces (Cassandra)
-- Amazon DocumentDB (MongoDB)
 - Amazon Neptune (Grafos)
 
 ## Servicios de almacenamiento y análisis
