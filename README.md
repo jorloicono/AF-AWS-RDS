@@ -23,12 +23,12 @@
 
 - Amazon Redshift. 
 - Amazon Athena
-- Amazon EMR
+- AWS Glue
+- AWS CloudFormation
 
 ## Migración de bases de datos en AWS
 
 - Optimización del proceso de migración
 - Ventajas de la migración a servicios PaaS
 - AWS Database Migration Service
-- AWS Glue
 - AWS Kinesis Data Streams
