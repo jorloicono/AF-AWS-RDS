@@ -21,7 +21,7 @@
 
 ## Servicios de almacenamiento y análisis
 
-- Amazon Redshift. 
+- Amazon Redshift
 - Amazon Athena
 - AWS Glue
 - AWS CloudFormation
